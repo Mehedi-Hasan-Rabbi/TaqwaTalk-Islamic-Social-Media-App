@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130391030454",
+    "project_id": "taqwa-talk",
+    "storage_bucket": "taqwa-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130391030454:android:256939c0a3b0935b714417",
+        "android_client_info": {
+          "package_name": "com.example.taqwa_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130391030454-9fbh8vbbuq7pq5jnsmg25ria9s1nkkgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8SEdpXVjglrsOVnPYIBJCIyTA57NUYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130391030454-9fbh8vbbuq7pq5jnsmg25ria9s1nkkgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
